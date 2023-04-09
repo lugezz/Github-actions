@@ -4,9 +4,9 @@
 
 ##### build Docker image called java-app. Execute from root
 
-    docker build -t java-app .
+    docker build -t demo-java-app .
     
 ##### push image to repo 
 
-    docker tag java-app demo-app:java-1.0
+    docker tag java-app demo-java-app:java-1.0
     
